@@ -1,0 +1,25 @@
+dir  - Lista de diretórios contidos na pasta em que estamos situados 
+
+cd  - Trocar diretório
+
+cd ..  - Voltar um diretório 
+
+cls - Limpar a tela
+
+Tecla TAB - Autopreenchimentto
+
+mkdir - Criar uma nova pasta
+
+echo hello > hello.txt - Criar um arquivo 
+
+del - Deleta os arquivos dentro de um diretório 
+
+rmdir /S /Q  - Deleta o diretório 
+
+
+
+git status - Mostrar status do Arquivo 
+
+mv    - Mover um arquivo para outro diretório 
+
+git remote add origin ()     - Colocar o repositório remoto no GitHub
