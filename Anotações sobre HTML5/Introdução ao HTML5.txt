@@ -1,0 +1,60 @@
+# Introdução ao HTML5 
+
+## Estrutura Básica 
+
+< !DOCTYPE html >
+
+< html >
+
+< head > 
+
+< meta >
+
+< title > < /title > 
+
+< /head > 
+
+< body> 
+
+## Semântica 
+
+< section >		< aside >
+
+< header >		< footer > 
+
+< article > 		< h1 > - < h6 > 
+
+< h1 > Título da página < /h1 >
+
+< h2 > Título da seção < /h2 >
+
+< h3 > Título do Artigo < /h3 >
+
+## Textos e Links
+
+< p > Conteúdo do Artigo. < /p > 
+
+< a > Link < /a >  
+
+< a href =" " >LinkedIn < /a >
+
+< a href= "mailto: ---------" > E-mail < /a>
+
+< a target="_blank" >Link < /a >
+
+## Imagens 
+
+< img >
+
+< img src="img/avatar.jpg" >
+
+< img alt="Foto" >
+
+## Listas 
+
+< ul >  A ordem dos elementos não é importante 
+
+< ol > A ordem dos elementos é importante 
+
+< li > É um elemento dessa lista
+
