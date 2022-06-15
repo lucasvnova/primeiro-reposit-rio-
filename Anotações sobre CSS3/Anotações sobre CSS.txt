@@ -1,0 +1,90 @@
+# Padding & Margin 
+
+## Formas de utilizar Padding
+
+.post {
+
+padding: 10px 5px (sup/inf , esq/dir)
+
+}
+
+
+
+.post {
+
+padding: 15px 10px 5px 0;
+
+}
+
+
+
+.post {
+paddding-top : 15px;
+padding-right: 10px
+padding-bottom: 5px;
+padding-left: 0 ; }
+
+### Background
+
+background-color
+
+background - image
+
+background- position
+
+## Border
+
+Largura/ Estilo/ Cor
+
+border: 3px solid blue 
+
+border-top 2px dotted green -------> Pontilhado
+
+border-right 4px dashed pink -------> Tracejado 
+
+
+
+border-radius: 10px;
+
+border-radius: 50%
+
+
+
+# Estilizando Textos
+
+font-family: Arial
+
+font-size: 30px
+
+font-style: normal/ italic
+
+font-weight: normal/bold(negrito)
+
+text-transform : uppercase/lowercase/capitalize
+
+text-decoration: underline/overline/line-through
+
+# Estilizando Listas
+
+list-style-type: square/upper-roman
+
+list-style-image : url ()
+
+# Dimensão e Alinhamento 
+
+Width
+
+Height
+
+max-width
+
+max-height 
+
+margin
+
+text align
+
+
+
+
+
